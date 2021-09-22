@@ -10,7 +10,7 @@ Include some screenshots.
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I did everything
 
 ## What you learned
 
@@ -18,7 +18,7 @@ TODO: what worked / what didn't work
 
 ## Authors
 
-TODO: list of authors
+Sasha Rich
 
 ## Acknowledgments
 
